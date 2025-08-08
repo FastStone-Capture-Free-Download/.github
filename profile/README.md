@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://img.utdstc.com/icon/136/9b2/1369b2c9ac4c6089718cac7c4c33179ad593682cec77c7342156167b1c075fde:200" alt="FastStone Capture Banner" width="100%" />
+  <img src="https://img.utdstc.com/icon/136/9b2/1369b2c9ac4c6089718cac7c4c33179ad593682cec77c7342156167b1c075fde:200" alt="FastStone Capture Banner" width="10%" />
 </p>
 
 <h1 align="center">📸 FastStone Capture Unlock Tool</h1>
